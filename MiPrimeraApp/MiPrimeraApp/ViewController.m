@@ -51,6 +51,13 @@
     
     NSLog(@"%@", carro);
     
+    NSString * valor = @"100";
+    int  tasaDolar = 2500;
+    int  resultado = tasaDolar * [valor intValue];
+    NSLog(@"%i", resultado);
+    
+    _labelText.text = [NSString stringWithFormat:@"%i",resultado];
+    
     
 }
 
