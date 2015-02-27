@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C4CC9FB8-2383-4E66-BA2F-4FDD4FB3199F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ConvertidorDolar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1083CAFDFD7E594AB2AC344D61682851DB5C9B03</key>
+		<string>https://github.com/marlonpineda9/cappacitate-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ConvertidorDolar/ConvertidorDolar.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1083CAFDFD7E594AB2AC344D61682851DB5C9B03</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/marlonpineda9/cappacitate-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1083CAFDFD7E594AB2AC344D61682851DB5C9B03</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1083CAFDFD7E594AB2AC344D61682851DB5C9B03</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cappacitate-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
